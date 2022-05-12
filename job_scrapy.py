@@ -10,7 +10,7 @@ import time
 
 
 # creating a file where data will be stored
-with open('job_scraping_multipe_pages.csv', 'w') as file:
+with open('job_scraping.csv', 'w') as file:
     file.write("Job_title; Location; Salary; Contract_type; Job_description \n")
     
     
